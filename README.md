@@ -1,5 +1,5 @@
 
-##Frogger Classic Arcade Game
+# Frogger Classic Arcade Game
 A Udacity Front End Dev project to help learn JavaScript
 
 **Getting started**
