@@ -5,11 +5,11 @@ A Udacity Front End Dev project to help learn JavaScript
 **Getting started**
 First, clone or download the repo to your local machine. Once downloaded, launch the index.html file in your preferred browser.
 
-**The Goal of the game is to navigate to the water at the top of the scree without hitting enemy bugs.**
+**The Goal of the game is to navigate to the water at the top of the screen without hitting enemy bugs.**
 
 **Description:**
 
-The player (avatar) must navigate up/down/left/right to reach the water (at the top of the game board) without colliding with enemy bugs.
+The player must navigate up/down/left/right to reach the water (at the top of the game board) without colliding with enemy bugs.
 
 **To Play:**
 
