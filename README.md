@@ -2,7 +2,7 @@
 # Frogger Classic Arcade Game
 ## A Udacity Front End Dev project to help learn JavaScript
 
-** Getting started **
+### Getting started
 First, clone or download the repo to your local machine. Once downloaded, launch the index.html file in your preferred browser.
 
 **The Goal of the game is to navigate to the water at the top of the screen without hitting enemy bugs.**
