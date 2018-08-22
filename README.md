@@ -16,7 +16,7 @@ The player must navigate up/down/left/right to reach the water (at the top of th
 
 Move the arrow keys up/down/left/right to navigate your player avatar. If you hit an enemy bug, you will lose a "star rating". 
 Three collisions with enemy bugs results in loosing the game (and all stars) with an optional restart prompt.
-Three times reaching water without collision result in winning the game, maintaining your 3 star rating, with an optional restart prompt. 
+Three times reaching water without collision results in winning the game, maintaining your 3 star rating, with an optional game restart prompt. 
 
 
 **Credits:**
