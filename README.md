@@ -26,3 +26,4 @@ Thanks to **Udacity** for providing starter code, engine js, resources.js and Cl
 
 **Thanks to Udacity Front End Dev students, mentors and project reviewersfor providing help, encouragement and camaraderie.**
 
+**A very special shout-out to Slack Mentor, Jason Michael White who broke down and detailed ways to improve my code.**
